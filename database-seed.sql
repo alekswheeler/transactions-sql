@@ -1,0 +1,6 @@
+
+CREATE TABLE alunos(
+  id VARCHAR PRIMARY KEY,
+  nome VARCHAR,
+  curso VARCHAR
+);
